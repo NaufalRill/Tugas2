@@ -1,7 +1,7 @@
 # Aplikasi Mengkonversi Kilometer ke Meter
 
 ## Kelas KilometerToMeterConverter
-**KilometerToMeterConverter** adalah kelas java dimana proses perhitungan konversi nilai Kilometer ke bentuk Meter terjadi, Kilometer adalah satuan panjang yang besarnya sama dengan 1.000 meter jadi rumus yang kita gunakan untuk pengkonversian adalah kilometer * 1000. Kelas KilometerToMeterConverter mencakup metode perhitungan konversi ke dalam meter 
+**KilometerToMeterConverter** adalah kelas java dimana proses perhitungan konversi nilai Kilometer ke bentuk Meter terjadi, Kilometer adalah satuan panjang yang besarnya sama dengan 1.000 meter jadi rumus yang kita gunakan untuk pengkonversian adalah kilometer * 1000. Kelas KilometerToMeterConverter mencakup metode perhitungan konversi ke dalam meter dengan nama **convertToMeters**.
 
 ## Atribut:
 **kilometers (double)**: Atribut ini digunakan untuk menyimpan nilai dalam kilometer yang akan dikonversi menjadi meter.
